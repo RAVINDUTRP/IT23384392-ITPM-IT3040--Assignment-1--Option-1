@@ -3,7 +3,7 @@
 **Student Name:** Thilakarathna T R P  
 **Registration Number:** IT23384392  
 **Module:** IT3040 – IT Project Management  
-**Semester:** Semester 1  
+**Semester:** 3 Year Semester 2 
 
 ---
 
